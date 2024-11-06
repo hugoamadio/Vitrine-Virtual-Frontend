@@ -11,7 +11,7 @@ const GlobalStyled = createGlobalStyle`
     .title-login{
         margin: 0px;
         color: white;
-        font-size: 46px;
+        font-size: 76px;
         text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         font-weight: 500;
     }
@@ -20,16 +20,16 @@ const GlobalStyled = createGlobalStyle`
         margin: 0px;
         margin-left: 28px;
         color: white;
-        font-size: 43px;
+        font-size: 63px;
         line-height: auto;
-        letter-spacing: 25px;
+        letter-spacing: 35px;
         text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         font-weight: 300
     }
 
     .form-login {
-    width: 395px;
-    height: 562px;
+    width: 495px;
+    height: 662px;
     border: 0.1px solid rgba(255, 255, 255, 0.1);
     border-radius: 14px;
     backdrop-filter: blur(20px);
